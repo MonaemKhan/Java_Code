@@ -1,0 +1,3 @@
+StidentName: azim ID: 12 Total_marks: 255.0
+StidentName: rahim ID: 34 Total_marks: 160.0
+StidentName: karim ID: 44 Total_marks: 150.0

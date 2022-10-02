@@ -1,0 +1,3 @@
+s1- Extract the jmf jar file
+s2- add the jar file in the project.
+	just right click on libraries->add JAR file.
